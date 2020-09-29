@@ -1,0 +1,26 @@
+h1 {
+  background-color: black;
+  color: white;
+}
+h2 {
+  background-color: black;
+  color: white;
+  padding: px;
+}
+
+
+h3{
+	background-color: aqua;
+	padding: 10px;
+}
+header{
+	background-color: aqua;
+	padding: 10px;
+}
+ul{
+	list-style: none;
+}
+li{
+ display: inline;
+ margin: 100px;
+}
